@@ -32,7 +32,8 @@
         "symfony/form": "^3.4 || ^4.0",
         "symfony/validator": "^3.4 || ^4.0",
         "twig/twig": "^2.0",
-        "fzaninotto/faker": "^1.6"
+        "fzaninotto/faker": "^1.6",
+        "nette/php-generator": "^3.1"
     },
     "require-dev": {
         "bossa/phpspec2-expect": "^3.0",
